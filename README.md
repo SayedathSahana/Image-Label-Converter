@@ -23,3 +23,5 @@ This project detects labels from an image stored in an S3 bucket using AWS Rekog
   "bucket": "rekognition-labels-sahana",
   "photo": "squirrel.jpg"
 }
+
+📌Note: This project was done for learning and showcasing AWS Rekognition. It is not open for public API access to avoid cost.
