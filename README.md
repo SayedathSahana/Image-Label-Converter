@@ -1,3 +1,5 @@
+📌This project was done for learning and showcasing AWS Rekognition. It is not open for public API access to avoid cost.
+
 # AWS Rekognition Label Detector using Lambda
 
 This project detects labels from an image stored in an S3 bucket using AWS Rekognition and Lambda.
@@ -24,4 +26,3 @@ This project detects labels from an image stored in an S3 bucket using AWS Rekog
   "photo": "squirrel.jpg"
 }
 
-📌Note: This project was done for learning and showcasing AWS Rekognition. It is not open for public API access to avoid cost.
